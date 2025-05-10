@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋 I am Safwan Ahnaf</h1>
+<h1 align="left">Hi there 👋 I am Safwan Ahnaf! 💻 Welcome to my World of Innovation! 💻</h1>
 
 ###
 
@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="10" />
+  <img height="42" src="https://logodownload.org/wp-content/uploads/2017/05/microsoft-edge-logo-2-1.png" alt="edge logo"  />
 </div>
 
 ###
