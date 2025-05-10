@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="265" src="https://raw.githubusercontent.com/SafwanAhnaf/SafwanAhnaf/refs/heads/main/Safwan.png"  />
+  <img width="765" src="https://raw.githubusercontent.com/SafwanAhnaf/SafwanAhnaf/refs/heads/main/Safwan.png"  />
 </div>
 
 ###
